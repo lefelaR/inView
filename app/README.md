@@ -17,3 +17,10 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### DOCUMENTATION FOR PROJECT
+```
+    * first thing was to add files to repository
+    * second thing will be to add bootstrap and animate.css
+    
